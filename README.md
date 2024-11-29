@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0228-summary-ranges](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
