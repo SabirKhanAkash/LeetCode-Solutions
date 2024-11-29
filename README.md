@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
 | ------- |
@@ -26,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
