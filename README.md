@@ -31,4 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SabirKhanAkash/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
